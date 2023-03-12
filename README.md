@@ -34,7 +34,7 @@ Whether you're new to deep learning or just want to learn more about YOLOv3, thi
   </tr>
   
   <tr>
-    <td><img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/result%20imgs/YOLOv3_tiny/people%20crossing%20the%20street.jpg" width=280></td>
+    <td><img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/result%20imgs/YOLOv3/people%20crossing%20the%20street.jpg" width=280></td>
     <td><img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/result%20imgs/YOLOv3_tiny/people%20crossing%20the%20street.jpg" width=280></td>
   </tr>
  
