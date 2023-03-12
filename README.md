@@ -83,7 +83,7 @@ Whether you're new to deep learning or just want to learn more about YOLOv3, thi
   
   <tr>
     <td><img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/gifs/YOLOv3/dog%20video%202.gif" width=280></td>
-    <td><img src="hhttps://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/gifs/YOLOv3_tiny/dog%20video%202.gif" width=280></td>
+    <td><img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/gifs/YOLOv3_tiny/dog%20video%202.gif" width=280></td>
   </tr>
   
   <tr>
