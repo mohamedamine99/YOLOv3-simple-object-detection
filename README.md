@@ -7,6 +7,20 @@
 This GitHub repository contains Jupyter notebooks that showcase simple object detection using YOLOv3 and Tiny YOLOv3 models. 
 The notebooks demonstrate how to apply these models to both images and video files, and provide step-by-step instructions for implementing the object detection algorithm. 
 Whether you're new to deep learning or just want to learn more about YOLOv3, this repository provides a great starting point for experimenting with object detection.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#repo-overview">Repo Overview</a></li>  
+    <li><a href="#comparing-yolov3-and-yolov3-tiny">Comparing YOLOv3 and YOLOv3 tiny</a></li>
+      <ul>
+        <li><a href="#object-detection-on-image-files">Object detection on image files</a></li>
+        <li><a href="#object-detection-on-video-files">Object detection on video files</a></li>
+      </ul>
+    <li><a href="#interpreting-results">Interpreting results</a></li>
+       
+  </ol>
+</details>
 
 ## Repo Overview:
 * [YOLOv3_img_simple_object_detection.ipynb](https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/YOLOv3_img_simple_object_detection%20.ipynb) : Jupyter notebook for object detection on image files with YOLOv3 and YOLOv3-tiny.
@@ -19,8 +33,9 @@ Whether you're new to deep learning or just want to learn more about YOLOv3, thi
 * [test vids](https://github.com/mohamedamine99/YOLOv3-simple-object-detection/tree/main/test%20vids) : contains videos of random scenes.
 * [coco.names](https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/coco.names) : The "coco.names" file is a plain text file that contains the names of the 80 object classes in the Microsoft Common Objects in Context (COCO) dataset.
 
+## Comparing YOLOv3 and YOLOv3 tiny
 
-## Object detection on images : YOLOv3 vs YOLOv3-tiny
+### Object detection on image files
 
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
@@ -66,7 +81,7 @@ Whether you're new to deep learning or just want to learn more about YOLOv3, thi
 </table>
 </div>
 
-## Object detection on video files : YOLOv3 vs YOLOv3-tiny
+### Object detection on video files
 
 <div align="center">  
 <table style="margin: 0 auto; border-style: none; width:100%">
@@ -98,7 +113,7 @@ Whether you're new to deep learning or just want to learn more about YOLOv3, thi
 </table>
 </div>
 
-## Interpreting results : YOLOv3 vs YOLOv3-tiny
+## Interpreting results
 
 <p align="center">
     <img src="https://github.com/mohamedamine99/YOLOv3-simple-object-detection/blob/main/readme%20imgs/YOLO%20performance.PNG" width=470></td>
